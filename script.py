@@ -7,4 +7,6 @@ if __name__ == "__main__":
 
 # this is file in remote_repo2
 
+# following changes made in remote_repo2
+print('changes in local')
 
